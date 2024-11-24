@@ -100,6 +100,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/fredjeong/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Hash Table
 |  |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/fredjeong/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
