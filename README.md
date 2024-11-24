@@ -56,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/fredjeong/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
@@ -84,6 +85,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/fredjeong/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -97,4 +99,16 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
