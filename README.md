@@ -56,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/fredjeong/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/fredjeong/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/fredjeong/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/fredjeong/LeetCode/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/fredjeong/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
