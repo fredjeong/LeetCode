@@ -56,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/fredjeong/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/fredjeong/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
@@ -90,6 +91,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/fredjeong/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/fredjeong/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
