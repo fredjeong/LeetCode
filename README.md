@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/fredjeong/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
