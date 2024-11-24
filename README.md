@@ -89,4 +89,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/fredjeong/LeetCode/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
