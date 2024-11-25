@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/fredjeong/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/fredjeong/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/fredjeong/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Hash Table
@@ -132,4 +133,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fredjeong/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/fredjeong/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
