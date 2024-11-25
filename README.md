@@ -106,6 +106,7 @@
 | [0013-roman-to-integer](https://github.com/fredjeong/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/fredjeong/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/fredjeong/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/fredjeong/LeetCode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
 ## String
@@ -160,4 +161,5 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/fredjeong/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/fredjeong/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
