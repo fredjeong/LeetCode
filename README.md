@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fredjeong/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/fredjeong/LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fredjeong/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/fredjeong/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fredjeong/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/fredjeong/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
