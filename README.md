@@ -107,6 +107,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/fredjeong/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/fredjeong/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/fredjeong/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/fredjeong/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Hash Table
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/fredjeong/LeetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/fredjeong/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
