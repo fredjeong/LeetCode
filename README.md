@@ -107,6 +107,7 @@
 | [0066-plus-one](https://github.com/fredjeong/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/fredjeong/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/fredjeong/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/fredjeong/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
 ## String
@@ -144,6 +145,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/fredjeong/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fredjeong/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
@@ -162,4 +164,8 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/fredjeong/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/fredjeong/LeetCode/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fredjeong/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
