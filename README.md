@@ -70,6 +70,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/fredjeong/LeetCode/tree/master/0067-add-binary) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/fredjeong/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Tree
 |  |
@@ -95,6 +96,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/fredjeong/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/fredjeong/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/fredjeong/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Math
@@ -103,6 +105,7 @@
 | [0009-palindrome-number](https://github.com/fredjeong/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/fredjeong/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/fredjeong/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/fredjeong/LeetCode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
 ## String
@@ -113,6 +116,7 @@
 | [0020-valid-parentheses](https://github.com/fredjeong/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fredjeong/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/fredjeong/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/fredjeong/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/fredjeong/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Hash Table
