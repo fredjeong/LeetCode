@@ -106,6 +106,7 @@
 | [0067-add-binary](https://github.com/fredjeong/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/fredjeong/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/fredjeong/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/fredjeong/LeetCode/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0070-climbing-stairs](https://github.com/fredjeong/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/fredjeong/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/fredjeong/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/fredjeong/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
