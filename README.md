@@ -69,6 +69,7 @@
 | [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fredjeong/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/fredjeong/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/fredjeong/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
@@ -108,6 +109,7 @@
 | [0136-single-number](https://github.com/fredjeong/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/fredjeong/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/fredjeong/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/fredjeong/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/fredjeong/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -144,6 +147,7 @@
 | [0205-isomorphic-strings](https://github.com/fredjeong/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/fredjeong/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fredjeong/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +155,7 @@
 | [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fredjeong/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fredjeong/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -190,6 +195,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/fredjeong/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/fredjeong/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
