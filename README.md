@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/fredjeong/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/fredjeong/LeetCode/tree/master/0258-add-digits) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/fredjeong/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Tree
 |  |
@@ -119,6 +120,7 @@
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/fredjeong/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/fredjeong/LeetCode/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/fredjeong/LeetCode/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/fredjeong/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
