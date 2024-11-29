@@ -131,6 +131,7 @@
 | [0125-valid-palindrome](https://github.com/fredjeong/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/fredjeong/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/fredjeong/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/fredjeong/LeetCode/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,12 +141,14 @@
 | [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/fredjeong/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/fredjeong/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/fredjeong/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/fredjeong/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fredjeong/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/fredjeong/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
