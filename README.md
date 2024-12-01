@@ -70,6 +70,7 @@
 | [0217-contains-duplicate](https://github.com/fredjeong/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/fredjeong/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/fredjeong/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/fredjeong/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
@@ -207,6 +208,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/fredjeong/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/fredjeong/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/fredjeong/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/fredjeong/LeetCode/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/fredjeong/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
