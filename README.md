@@ -125,6 +125,7 @@
 | [0231-power-of-two](https://github.com/fredjeong/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/fredjeong/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/fredjeong/LeetCode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/fredjeong/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/fredjeong/LeetCode/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
 | ------- |
