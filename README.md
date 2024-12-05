@@ -142,6 +142,7 @@
 | [0205-isomorphic-strings](https://github.com/fredjeong/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/fredjeong/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/fredjeong/LeetCode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/fredjeong/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0088-merge-sorted-array](https://github.com/fredjeong/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/fredjeong/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/fredjeong/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
