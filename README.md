@@ -72,6 +72,7 @@
 | [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/fredjeong/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/fredjeong/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/fredjeong/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/fredjeong/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
@@ -157,6 +158,7 @@
 | [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/fredjeong/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/fredjeong/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/fredjeong/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0242-valid-anagram](https://github.com/fredjeong/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fredjeong/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/fredjeong/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
@@ -181,6 +184,7 @@
 | [0202-happy-number](https://github.com/fredjeong/LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/fredjeong/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/fredjeong/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/fredjeong/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +213,7 @@
 | [0069-sqrtx](https://github.com/fredjeong/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fredjeong/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/fredjeong/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Memoization
 |  |
 | ------- |
