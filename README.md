@@ -130,6 +130,7 @@
 | [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/fredjeong/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fredjeong/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/fredjeong/LeetCode/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [0268-missing-number](https://github.com/fredjeong/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fredjeong/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/fredjeong/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/fredjeong/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Memoization
 |  |
 | ------- |
