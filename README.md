@@ -150,6 +150,7 @@
 | [0383-ransom-note](https://github.com/fredjeong/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/fredjeong/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/fredjeong/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/fredjeong/LeetCode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/fredjeong/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/fredjeong/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/fredjeong/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/fredjeong/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0118-pascals-triangle](https://github.com/fredjeong/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/fredjeong/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fredjeong/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/fredjeong/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
