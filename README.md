@@ -146,6 +146,7 @@
 | [0242-valid-anagram](https://github.com/fredjeong/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/fredjeong/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/fredjeong/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/fredjeong/LeetCode/tree/master/0383-ransom-note) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0290-word-pattern](https://github.com/fredjeong/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/fredjeong/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/fredjeong/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/fredjeong/LeetCode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fredjeong/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/fredjeong/LeetCode/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
